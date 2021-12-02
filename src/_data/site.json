@@ -6,7 +6,7 @@
   "authorEmail": "toogunbiyi@gmail.com",
   "authorHandle": "@toheebdotcom",
   "authorName": "Toheeb Ogunbiyi",
-  "enableThirdPartyComments": true,
+  "enableThirdPartyComments": false,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
