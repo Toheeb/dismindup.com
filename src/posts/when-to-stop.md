@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: When to Stop
+title: When to STOP
 date: 2021-12-02T08:18:19.903Z
 ---
 I might have just discovered how to stop an act. The problem starts with when I create a vague outline.
