@@ -39,3 +39,7 @@ That seems a good way to niche down and focus. And I believe, that is why I feel
 Because the “Layout” is broadening the scope of the issue. My body figured it out faster than my brain. All I needed to do is slow down and let my brain catch up. 
 
 > That moment of reflection is when to decide, unbiasedly, to continue or to stop.
+
+---
+
+_if you'd like to try out the newsletter, here's a link to [subscribe](https://www.getrevue.co/profile/toheeb). You can unsubscribe at any fucking time._
