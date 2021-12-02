@@ -1,10 +1,10 @@
 ---
 layout: home
-title: " "
-metaTitle: Thoughts of a Human
+title: Thoughts of a Human
+metaTitle: ""
 metaDesc: ""
 postsHeading: " "
 archiveButtonText: See all posts
 socialImage: ""
 ---
- 
+Offloaded below.
