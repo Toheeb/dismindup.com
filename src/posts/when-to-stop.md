@@ -3,13 +3,13 @@ layout: layouts/post.njk
 title: When to STOP
 date: 2021-12-02T08:18:19.903Z
 ---
-I might have just discovered how to stop an act. The problem starts with when I create a vague outline.
+I might have just discovered how to __stop an act__. The problem starts with when I create a _vague_ outline.
 
-It's one thing to create an outline. It's another to question each entry of the outline. Yet, most times, it takes action to finetune the outline.
+It's one thing to __create__ an outline. It's another to __question__ each entry of the outline. Yet, most times, it takes __action__ to finetune the outline.
 
 But, then...
 
-Whenever I struggle to complete a section, that's probably my inner self telling me my current action doesn't flow with the previous. Time to rethink. 
+> Whenever I struggle to complete a section, that's probably my inner self telling me my current action doesn't flow with the previous. Time to rethink. 
 
 ---
 
@@ -34,7 +34,7 @@ I spent a considerable amount of time going back and forth, trying to fit it in.
 
 You see, I'd earlier draft the issue's title - “Warm Blog Post Webpage like Piccalil.li”. With another goal of creating a similar issue on “Cool Blog Post Webpage”.
 
-That seems a good way to niche down and focus. And I believe, that is why I feel different while talking about Layout. 
+That seems a good way to __niche down and focus__. And I believe, that is why I feel different while talking about Layout. 
 
 Because the “Layout” is broadening the scope of the issue. My body figured it out faster than my brain. All I needed to do is slow down and let my brain catch up. 
 
