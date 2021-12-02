@@ -1,8 +1,9 @@
 ---
 layout: home
 title: Thoughts of a Human
+metaTitle: ""
 metaDesc: ""
-postsHeading: Latest posts
+postsHeading: " "
 archiveButtonText: See all posts
 socialImage: ""
 ---
