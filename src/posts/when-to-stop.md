@@ -43,3 +43,9 @@ Because the “Layout” is broadening the scope of the issue. My body figured i
 ---
 
 _if you'd like to try out the newsletter, here's a link to [subscribe](https://www.getrevue.co/profile/toheeb). You can unsubscribe at any fucking time._
+
+
+Tweet at me any similar experience you've got!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve got some bad habits I really need to work on. <br><br>❎ One is, I don&#39;t listen to my body reaction early enough.</p>&mdash; 2 👋 (@ToheebDotCom) <a href="https://twitter.com/ToheebDotCom/status/1466356036407681024?ref_src=twsrc%5Etfw">December 2, 2021</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
